@@ -1,0 +1,50 @@
+_wandb:
+    value:
+        cli_version: 0.19.8
+        m: []
+        python_version: 3.9.13
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+                - 55
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+                - 55
+            "3":
+                - 2
+                - 13
+                - 16
+                - 23
+                - 55
+            "4": 3.9.13
+            "5": 0.19.8
+            "8":
+                - 3
+                - 5
+            "12": 0.19.8
+            "13": windows-amd64
+architecture:
+    value: DCGAN
+beta1:
+    value: 0.5
+discriminator_dropout:
+    value: 0.3
+img_shape:
+    value:
+        - 28
+        - 28
+        - 1
+latent_dim:
+    value: 100
+leaky_alpha:
+    value: 0.2
+learning_rate:
+    value: 0.0002
+optimizer_type:
+    value: rmsprop

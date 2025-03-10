@@ -1,0 +1,14 @@
+{
+    "learning_rate": 0.0002,
+    "beta1": 0.5,
+    "optimizer_type": "rmsprop",
+    "discriminator_dropout": 0.3,
+    "leaky_alpha": 0.2,
+    "latent_dim": 100,
+    "img_shape": [
+        28,
+        28,
+        1
+    ],
+    "timestamp": "2025-03-09 23:33:57"
+}

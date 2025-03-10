@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "CPython 3.9.13",
+  "startedAt":  "2025-03-10T04:29:22.581179Z",
+  "program":  "C:\\Users\\jermi\\Source\\Repos\\atlas-machine_learning\\unsupervised_learning\\dcgan\\3_DCGAN.py",
+  "codePath":  "unsupervised_learning\\dcgan\\3_DCGAN.py",
+  "git":  {
+    "remote":  "https://github.com/jerm014/atlas-machine_learning",
+    "commit":  "3736e3741a6874745c970ff47092b2a572566045"
+  },
+  "email":  "jermitts@gmail.com",
+  "root":  "C:\\Users\\jermi\\Source\\Repos\\atlas-machine_learning\\unsupervised_learning\\dcgan",
+  "host":  "Jeremy",
+  "executable":  "C:\\Users\\jermi\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\\python.exe",
+  "codePathLocal":  "3_DCGAN.py",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "253561401344",
+      "used":  "234706706432"
+    }
+  },
+  "memory":  {
+    "total":  "16995635200"
+  },
+  "cpu":  {
+    "count":  10,
+    "countLogical":  12
+  }
+}
